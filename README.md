@@ -1,4 +1,5 @@
 ### Hi there 👋
+My name is James and I am a Data Engineer in Milton Keynes - UK. 
 
 🔭 I’m currently working on building my own website - [repo link](https://github.com/TheRockerfly/my_cv_site) and building some yugioh deck building [repo link](https://github.com/TheRockerfly/py-yugioh)
 
