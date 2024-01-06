@@ -1,12 +1,12 @@
 ![Code Kata](https://www.codewars.com/users/TheRockerfly/badges/small)
 
 ### Hi there 👋
-My name is James and I am a Data Engineer in Milton Keynes - UK. 
+My name is James and I am a Data and Software Engineer in the UK. 
 
-🔭 I’m currently working on - improving some of my old code, adding additional python solutions because I don't get to use it very often and adding some use cases of docker
+🔭 I’m currently working on - improving some of my old code I've committed, adding additional python solutions to my portfolio, but usually corporate projects. 
 
-📖 Knowledge: Python, Docker, Kafka, data modelling, SQL, Airflow, Power BI, ruby
+📖 Knowledge: Python, Docker, Terrafrom, AWS, Airflow, Data modelling, SQL (of various versions), Ruby, Kafka
 
-🌱 I’m currently learning - more about eventification, agile and I would like to start coding in Rust or Go
+🌱 I’m currently learning - Rust, async coding and building software that scales. Also some MLOps
 
-⚡ Fun fact: I mainly code in python as a data engineer however I'm interested in etymology, yugioh and animals
+⚡ Fun fact: I mainly code in Python as a data engineer however I will not be able to make it if I have to keep reading bad data science code structures. Also I have 2 cats 
